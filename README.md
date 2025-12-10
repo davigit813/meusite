@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -30,4 +30,4 @@
 <button style="font-size:22px; padding:20px; background:rgb(1, 47, 250); color:white; border:none; margin-left:80px"
     onclick="location.href='tel:190'">
     Ligar para a polícia
-</button># meusite
+</button>
